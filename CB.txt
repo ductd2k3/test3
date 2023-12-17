@@ -1,0 +1,12 @@
+11
+1,Nguyen Van A,2003,SE1816,dv1
+2,Nguyen Van B,2003,SE1817,dv1
+3,Nguyen Van C,2003,SE1817,dv1
+4,Nguyen Van D,2003,SE1816,dv2
+5,Nguyen Van E,2003,SE1817,dv2
+6,Nguyen Van F,2003,SE1816,dv2
+7,Nguyen Van A,1986,SE1819,dv2
+8,Nguyen Van B,2003,SE1819,dv3
+9,Nguyen Van A,1980,SE1810,dv3
+10,Nguyen Van G,2003,SE1810,dv3
+11,Nguyen Van A,2003,SE1810,dv4
